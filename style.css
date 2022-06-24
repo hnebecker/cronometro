@@ -1,0 +1,50 @@
+body{background-color: #7C7D78;
+     background-repeat: no-repeat;
+     text-align: center;
+     padding: 0;
+     margin: 0;
+     font-family: 'Inter', sans-serif;
+font-family: 'Kalam', cursive;
+font-family: 'Press Start 2P', cursive;
+     }
+.fundo{background-color: #7C7D78;
+   color: chartreuse;
+   width: 100vw;}
+h1{font-size: 5vw;
+   display: inline-block;
+}
+
+
+   
+   
+input{background-color: chartreuse;
+   font-family: 'Inter', sans-serif;
+   font-family: 'Kalam', cursive;
+   font-family: 'Press Start 2P', cursive;
+      padding: 10px;
+      border-radius: 10px;
+      color: black;
+      font-size: 2vw;
+      cursor: pointer;   
+   }
+   #whatsImage{width:20px;
+      aspect-ratio: attr(553)/attr(135);
+  }
+  #emailImage{width:20px;
+      aspect-ratio: attr(553)/attr(135);
+  }   
+  #whats a{
+      text-decoration: none;
+      color:black;
+      text-align: center;
+      font-size: 1.5vw;
+  
+  }
+  #mail a{
+      text-decoration: none;
+      color: black;
+      text-align: center;
+      font-size: 1.5vw;
+  }
+
+
